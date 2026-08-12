@@ -1,0 +1,169 @@
+name,lms-id,problem-class,scenario-tag,ppc-scenario_initial-amount,ppc-scenario_percent-change,ppc-scenario_part-amount,ppc-scenario_percent,ppc-scenario_total-amount,ppc-scenario_final-amount,ppc-scenario_change-amount
+rpm4-035,ratio_proportion_mix4-035,_percentChange,shelter,40,20,,,,,
+rpm4-190,ratio_proportion_mix4-190,_percentProportion,pizzaShop,,,6.0,,600.0,,
+rpm4-115,ratio_proportion_mix4-115,_percentProportion,,,,190.0,38.0,,,
+rpm4-174,ratio_proportion_mix4-174,_percentChange,shelter,70,30,,,,,
+rpm4-131,ratio_proportion_mix4-131,_percentChange,sportsTeam,30,90,,,,,
+rpm4-069,ratio_proportion_mix4-069,_percentProportion,carDealer,,,11.0,55.0,,,
+rpm4-149,ratio_proportion_mix4-149,_percentChange,strategyGame,,,,,,7.0,-3.0
+rpm4-176,ratio_proportion_mix4-176,_percentChange,pizzaShop,,,,,,7.0,-43.0
+rpm4-096,ratio_proportion_mix4-096,_percentChange,carDealer,,,,,,25.0,5.0
+rpm4-037,ratio_proportion_mix4-037,_percentChange,carDealer,64,50,,,,,
+rpm4-196,ratio_proportion_mix4-196,_percentProportion,,,,98.0,49.0,,,
+rpm4-033,ratio_proportion_mix4-033,_percentChange,checking,50,70,,,,,
+rpm4-076,ratio_proportion_mix4-076,_percentProportion,,,,264.0,66.0,,,
+rpm4-172,ratio_proportion_mix4-172,_percentProportion,,,,,65.0,200.0,,
+rpm4-108,ratio_proportion_mix4-108,_percentProportion,pizzaShop,,,27.0,,225.0,,
+rpm4-015,ratio_proportion_mix4-015,_percentChange,shelter,20,,,,,,3.0
+rpm4-169,ratio_proportion_mix4-169,_percentChange,sportsCards,25,20,,,,,
+rpm4-031,ratio_proportion_mix4-031,_percentChange,pizzaShop,40,65,,,,,
+rpm4-074,ratio_proportion_mix4-074,_percentProportion,,,,651.0,,700.0,,
+rpm4-177,ratio_proportion_mix4-177,_percentProportion,sports cards,,,,51.0,200.0,,
+rpm4-036,ratio_proportion_mix4-036,_percentChange,sportsTeam,50,2,,,,,
+rpm4-153,ratio_proportion_mix4-153,_percentChange,shelter,,,,,,35.0,15.0
+rpm4-129,ratio_proportion_mix4-129,_percentProportion,,,,12.0,8.0,,,
+rpm4-034,ratio_proportion_mix4-034,_percentChange,president,10,-30,,,,,
+rpm4-148,ratio_proportion_mix4-148,_percentChange,pizzaShop,84,,,,,,63.0
+rpm4-095,ratio_proportion_mix4-095,_percentChange,strategyGame,36,25,,,,,
+rpm4-171,ratio_proportion_mix4-171,_percentChange,strategyGame,10,,,,,,7.0
+rpm4-029,ratio_proportion_mix4-029,_percentChange,carwash,,,,,,144.0,69.0
+rpm4-091,ratio_proportion_mix4-091,_percentProportion,,,,42.0,28.0,,,
+rpm4-155,ratio_proportion_mix4-155,_percentProportion,,,,,12.0,25.0,,
+rpm4-075,ratio_proportion_mix4-075,_percentProportion,,,,,56.0,225.0,,
+rpm4-168,ratio_proportion_mix4-168,_percentChange,strategyGame,,,,,,21.0,-54.0
+rpm4-032,ratio_proportion_mix4-032,_percentChange,shells,12,-25,,,,,
+rpm4-112,ratio_proportion_mix4-112,_percentChange,carwash,,,,,,33.0,-17.0
+rpm4-157,ratio_proportion_mix4-157,_percentChange,sportsTeam,25,,,,,,20.0
+rpm4-016,ratio_proportion_mix4-016,_percentChange,sportsTeam,30,,,,,,9.0
+rpm4-142,ratio_proportion_mix4-142,_percentProportion,sportsTeam,,,,40.0,50.0,,
+rpm4-166,ratio_proportion_mix4-166,_percentProportion,,,,693.0,,700.0,,
+rpm4-084,ratio_proportion_mix4-084,_percentProportion,strategyGame,,,,88.0,50.0,,
+rpm4-164,ratio_proportion_mix4-164,_percentProportion,,,,,40.0,20.0,,
+rpm4-121,ratio_proportion_mix4-121,_percentProportion,carDealer,,,7.0,10.0,,,
+rpm4-044,ratio_proportion_mix4-044,_percentProportion,checking,,,,81.0,200.0,,
+rpm4-180,ratio_proportion_mix4-180,_percentProportion,president,,,39.0,26.0,,,
+rpm4-021,ratio_proportion_mix4-021,_percentChange,pizzaShop,,,,,,27.0,-3.0
+rpm4-184,ratio_proportion_mix4-184,_percentProportion,checking,,,2.0,8.0,,,
+rpm4-144,ratio_proportion_mix4-144,_percentChange,shells,16,75,,,,,
+rpm4-059,ratio_proportion_mix4-059,_percentProportion,strategyGame,,,6.0,,30.0,,
+rpm4-160,ratio_proportion_mix4-160,_percentChange,sportsCards,10,-50,,,,,
+rpm4-038,ratio_proportion_mix4-038,_percentChange,strategyGame,40,-35,,,,,
+rpm4-040,ratio_proportion_mix4-040,_percentChange,sportsCards,75,-44,,,,,
+rpm4-127,ratio_proportion_mix4-127,_percentChange,shelter,60,80,,,,,
+rpm4-082,ratio_proportion_mix4-082,_percentChange,sportsCards,,,,,,17.0,7.0
+rpm4-103,ratio_proportion_mix4-103,_percentProportion,,,,4.0,40.0,,,
+rpm4-023,ratio_proportion_mix4-023,_percentChange,checking,,,,,,19.0,9.0
+rpm4-186,ratio_proportion_mix4-186,_percentProportion,shelter,,,,16.0,75.0,,
+rpm4-198,ratio_proportion_mix4-198,_percentProportion,,,,148.0,74.0,,,
+rpm4-120,ratio_proportion_mix4-120,_percentChange,shelter,4,-50,,,,,
+rpm4-078,ratio_proportion_mix4-078,_percentChange,sportsCards,,,,,,11.0,-33.0
+rpm4-141,ratio_proportion_mix4-141,_percentChange,sportsTeam,60,-30,,,,,
+rpm4-063,ratio_proportion_mix4-063,_percentProportion,president,,,3.0,60.0,,,
+rpm4-106,ratio_proportion_mix4-106,_percentChange,necklaces,50,58,,,,,
+rpm4-122,ratio_proportion_mix4-122,_percentChange,stuffed animals,40,90,,,,,
+rpm4-167,ratio_proportion_mix4-167,_percentChange,carwash,50,,,,,,42.0
+rpm4-087,ratio_proportion_mix4-087,_percentProportion,leaves,,,,90.0,10.0,,
+rpm4-083,ratio_proportion_mix4-083,_percentProportion,pizzaShop,,,148.0,,200.0,,
+rpm4-187,ratio_proportion_mix4-187,_percentProportion,,,,3.0,50.0,,,
+rpm4-067,ratio_proportion_mix4-067,_percentProportion,shelter,,,9.0,30.0,,,
+rpm4-022,ratio_proportion_mix4-022,_percentChange,insects,,,,,,8.0,-2.0
+rpm4-102,ratio_proportion_mix4-102,_percentChange,stuffed animals,25,,,,,,15.0
+rpm4-100,ratio_proportion_mix4-100,_percentChange,movies,50,,,,,,-17.0
+rpm4-145,ratio_proportion_mix4-145,_percentChange,kites,70,,,,,,42.0
+rpm4-098,ratio_proportion_mix4-098,_percentProportion,,,,567.0,,700.0,,
+rpm4-065,ratio_proportion_mix4-065,_percentProportion,stuffed animals,,,9.0,36.0,,,
+rpm4-020,ratio_proportion_mix4-020,_percentChange,sportsCards,12,,,,,,-3.0
+rpm4-081,ratio_proportion_mix4-081,_percentProportion,carDealer,,,2.0,,5.0,,
+rpm4-039,ratio_proportion_mix4-039,_percentChange,carwash,88,50,,,,,
+rpm4-161,ratio_proportion_mix4-161,_percentChange,carDealer,30,-40,,,,,
+rpm4ac012,ratio_proportion_mix4a-cms-012,_percentProportion,"PC-UPPCa-ME-005, PC6, PT24, T400",_percent-total,Flavio,,6.0,400.0,,
+rpm4ac068,ratio_proportion_mix4a-cms-068,_percentProportion,"PC-UPPCa-ME-004, PC51, PT357, T700",_part-percent,Amber,357.0,51.0,,,
+rpm4ac055,ratio_proportion_mix4a-cms-055,_percentProportion,"PC-UPPCa-KE-1, PC95, PT133, T140",_percent-total,baseball league players,,95.0,140.0,,
+rpm4ac034,ratio_proportion_mix4a-cms-034,_percentProportion,"PC-UPPC-MWT-1, PC84, PT126, T150",_total-part,Professor Melinda Quackenbush,126.0,,150.0,,
+rpm4ac030,ratio_proportion_mix4a-cms-030,_percentProportion,"PC-UPPCa-ME-005, PC46, PT207, T450",_percent-total,Abraham,,46.0,450.0,,
+rpm4ac048,ratio_proportion_mix4a-cms-048,_percentProportion,"PC-UPPCa-ME-002, PC4, PT3, T75",_total-part,Jordan,3.0,,75.0,,
+rpm4ac091,ratio_proportion_mix4a-cms-091,_percentProportion,"PC-UPPCa-NG-10, PC90, PT72, T80",_part-percent,Mike,72.0,90.0,,,
+rpm4ac051,ratio_proportion_mix4a-cms-051,_percentProportion,"PC-UPPCa-ME-008, PC45, PT54, T120",_percent-total,you,,45.0,120.0,,
+rpm4ac014,ratio_proportion_mix4a-cms-014,_percentProportion,"PC-UPPCa-ME-007, PC42, PT147, T350",_total-part,Rebecca,147.0,,350.0,,
+rpm4ac093,ratio_proportion_mix4a-cms-093,_percentProportion,"PC-UPPCa-ME-009, PC96, PT192, T200",_part-percent,Leo,192.0,96.0,,,
+rpm4ac077,ratio_proportion_mix4a-cms-077,_percentProportion,"PC-UPPCa-NG-15, PC5, PT10, T200",_percent-total,Garfield High School Theater Society,,5.0,200.0,,
+rpm4ac032,ratio_proportion_mix4a-cms-032,_percentProportion,"PC-UPPCa-KE-7, PC45, PT81, T180",_total-part,Sharonda,81.0,,180.0,,
+rpm4ac011,ratio_proportion_mix4a-cms-011,_percentProportion,"PC-UPPCa-ME-004, PC66, PT33, T50",_part-percent,Jared,33.0,66.0,,,
+rpm4ac096,ratio_proportion_mix4a-cms-096,_percentProportion,"PC-UPPCa-ME-007, PC35, PT7, T20",_total-part,Cho,7.0,,20.0,,
+rpm4ac013,ratio_proportion_mix4a-cms-013,_percentProportion,"PC-UPPCa-ME-006, PC9, PT90, T1000",_total-part,your uncle,90.0,,1000.0,,
+rpm4ac052,ratio_proportion_mix4a-cms-052,_percentProportion,"PC-UPPCa-NG-15, PC36, PT54, T150",_percent-total,Garfield High School Theater Society,,36.0,150.0,,
+rpm4ac033,ratio_proportion_mix4a-cms-033,_percentProportion,"PC-UPPCa-ME-002, PC68, PT85, T125",_total-part,Patrick,85.0,,125.0,,
+rpm4ac015,ratio_proportion_mix4a-cms-015,_percentProportion,"PC-UPPCa-ME-008, PC64, PT32, T50",_percent-total,you,,64.0,50.0,,
+rpm4ac090,ratio_proportion_mix4a-cms-090,_percentProportion,"PC-UPPCa-ME-001, PC5, PT1, T20",_percent-total,Emelio,,5.0,20.0,,
+rpm4ac061,ratio_proportion_mix4a-cms-061,_percentProportion,"PC-UPPCa-NG-10, PC63, PT315, T500",_part-percent,Mike,315.0,63.0,,,
+rpm4ac024,ratio_proportion_mix4a-cms-024,_percentProportion,"PC-UPPCa-NG-3, PC60, PT9, T15",_part-percent,Dmitri Shostakovich,9.0,60.0,,,
+rpm4ac019,ratio_proportion_mix4a-cms-019,_percentProportion,"PC-UPPCa-NG-10, PC77, PT385, T500",_part-percent,Mike,385.0,77.0,,,
+rpm4ac063,ratio_proportion_mix4a-cms-063,_percentProportion,"PC-UPPCa-NG-10, PC57, PT114, T200",_part-percent,Mike,114.0,57.0,,,
+rpm4ac026,ratio_proportion_mix4a-cms-026,_percentProportion,"PC-UPPCa-NG-10, PC26, PT65, T250",_part-percent,Mike,65.0,26.0,,,
+rpm4ac022,ratio_proportion_mix4a-cms-022,_percentProportion,"PC-UPPCa-NG-17, PC85, PT68, T80",_part-percent,National Football League teams,68.0,85.0,,,
+rpm4ac043,ratio_proportion_mix4a-cms-043,_percentProportion,"PC-UPPCa-ME-006, PC30, PT24, T80",_total-part,your uncle,24.0,,80.0,,
+rpm4ac081,ratio_proportion_mix4a-cms-081,_percentProportion,"PC-UPPCa-ME-001, PC62, PT93, T150",_percent-total,Francis,,62.0,150.0,,
+rpm4ac004,ratio_proportion_mix4a-cms-004,_percentProportion,"PC-UPPCa-KE-1, PC85, PT34, T40",_percent-total,baseball league players,,85.0,40.0,,
+rpm4ac098,ratio_proportion_mix4a-cms-098,_percentProportion,"PC-UPPCa-NG-2, PC87, PT435, T500",_total-part,Midtown Mega-Mall,435.0,,500.0,,
+rpm4ac100,ratio_proportion_mix4a-cms-100,_percentProportion,"PC-UPPCa-KE-1, PC1, PT7, T700",_percent-total,baseball league players,,1.0,700.0,,
+rpm4ac003,ratio_proportion_mix4a-cms-003,_percentProportion,"PC-UPPC-MWT-2 , PC60, PT6, T10",_percent-total,Cheetah,,60.0,10.0,,
+rpm4ac060,ratio_proportion_mix4a-cms-060,_percentProportion,"PC-UPPCa-ME-003, PC78, PT156, T200",_part-percent,Jamal,156.0,78.0,,,
+rpm4ac001,ratio_proportion_mix4a-cms-001,_percentProportion,"PC-UPPCa-NG-9, PC75, PT96, T128",_total-part,professional basketball players,96.0,,128.0,,
+rpm4ac084,ratio_proportion_mix4a-cms-084,_percentProportion,"PC-UPPCa-ME-007, PC94, PT376, T400",_total-part,Carlos,376.0,,400.0,,
+rpm4ac079,ratio_proportion_mix4a-cms-079,_percentProportion,"PC-UPPCa-NG-2, PC78, PT234, T300",_total-part,Midtown Mega-Mall,234.0,,300.0,,
+rpm4ac005,ratio_proportion_mix4a-cms-005,_percentProportion,"PC-UPPCa-KE-3, PC54, PT216, T400",_total-part,Pia,216.0,,400.0,,
+rpm4ac080,ratio_proportion_mix4a-cms-080,_percentProportion,"PC-UPPCa-ME-009, PC74, PT148, T200",_part-percent,Helen,148.0,74.0,,,
+rpm4ac099,ratio_proportion_mix4a-cms-099,_percentProportion,"PC-UPPCa-KE-5, PC48, PT36, T75",_part-percent,Hillsdale School Orchestra,36.0,48.0,,,
+rpm4ac023,ratio_proportion_mix4a-cms-023,_percentProportion,"PC-UPPCa-NG-2, PC21, PT210, T1000",_total-part,Midtown Mega-Mall,210.0,,1000.0,,
+rpc4bc019,ratio_proportion_change4b-cms-019,_percentChange,PC-UPPCb-NG-11,4,75,,,,,
+rpc4bc061,ratio_proportion_change4b-cms-061,_percentChange,PC-UPPCb-NG-18,50,,,,,,14.0
+rpc4bc078,ratio_proportion_change4b-cms-078,_percentChange,PC-UPPCb-NG-7,20,-15,,,,,
+rpc4bc026,ratio_proportion_change4b-cms-026,_percentChange,PC-UPPCb-KE-6,,,,,,6.0,-2.0
+rpc4bc063,ratio_proportion_change4b-cms-063,_percentChange,PC-UPPCb-NG-11,8,25,,,,,
+rpc4bc022,ratio_proportion_change4b-cms-022,_percentChange,PC-UPPCb-NG-19,196,-25,,,,,
+rpc4bc083,ratio_proportion_change4b-cms-083,_percentChange,PC-UPPCb-ME-014,,,,,,27.0,7.0
+rpc4bc006,ratio_proportion_change4b-cms-006,_percentChange,PC-UPPCb-NG-6,75,,,,,,3.0
+rpc4bc043,ratio_proportion_change4b-cms-043,_percentChange,PC-UPPCb-ME-016,10,-50,,,,,
+rpc4bc081,ratio_proportion_change4b-cms-081,_percentChange,PC-UPPCb-ME-019,25,40,,,,,
+rpc4bc058,ratio_proportion_change4b-cms-058,_percentChange,PC-UPPCb-KE-6,,,,,,25.0,5.0
+rpc4bc098,ratio_proportion_change4b-cms-098,_percentChange,PC-UPPCb-ME-012,40,15,,,,,
+rpc4bc020,ratio_proportion_change4b-cms-020,_percentChange,PC-UPPCb-NG-12,50,-76,,,,,
+rpc4bc065,ratio_proportion_change4b-cms-065,_percentChange,PC-UPPCb-KE-6,,,,,,6.0,-4.0
+rpc4bc046,ratio_proportion_change4b-cms-046,_percentChange,PC-UPPCb-NG-18,25,,,,,,24.0
+rpc4bc086,ratio_proportion_change4b-cms-086,_percentChange,PC-UPPCb-NG-12,50,-84,,,,,
+rpc4bc062,ratio_proportion_change4b-cms-062,_percentChange,PC-UPPCb-NG-18,10,,,,,,7.0
+rpc4bc027,ratio_proportion_change4b-cms-027,_percentChange,PC-UPPCb-NG-11,25,32,,,,,
+rpc4bc060,ratio_proportion_change4b-cms-060,_percentChange,PC-UPPCb-KE-6,,,,,,17.0,7.0
+rpc4bc025,ratio_proportion_change4b-cms-025,_percentChange,PC-UPPCb-KE-6,,,,,,61.0,11.0
+rpc4bc018,ratio_proportion_change4b-cms-018,_percentChange,PC-UPPCb-ME-019,25,48,,,,,
+rpc4bc079,ratio_proportion_change4b-cms-079,_percentChange,PC-UPPCb-ME-020,8,,,,,,-4.0
+rpc4bc044,ratio_proportion_change4b-cms-044,_percentChange,PC-UPPC-MWT-4,75,,,,,,21.0
+rpc4bc040,ratio_proportion_change4b-cms-040,_percentChange,PC-UPPCb-ME-018,8,,,,,,-2.0
+rpc4bc021,ratio_proportion_change4b-cms-021,_percentChange,PC-UPPCb-NG-14,120,5,,,,,
+rpc4bc059,ratio_proportion_change4b-cms-059,_percentChange,PC-UPPCb-ME-018,30,,,,,,24.0
+rpc4bc023,ratio_proportion_change4b-cms-023,_percentChange,PC-UPPCb-NG-5,10,30,,,,,
+rpc4bc082,ratio_proportion_change4b-cms-082,_percentChange,PC-UPPCb-ME-016,25,-60,,,,,
+rpc4bc073,ratio_proportion_change4b-cms-073,_percentChange,PC-UPPCb-ME-016,25,-4,,,,,
+rpc4bc097,ratio_proportion_change4b-cms-097,_percentChange,PC-UPPCb-ME-014,,,,,,135.0,45.0
+rpc4bc012,ratio_proportion_change4b-cms-012,_percentChange,PC-UPPCb-KE-4,40,15,,,,,
+rpc4bc057,ratio_proportion_change4b-cms-057,_percentChange,PC-UPPCb-ME-012,50,-96,,,,,
+rpc4bc009,ratio_proportion_change4b-cms-009,_percentChange,PC-UPPCb-ME-020,30,,,,,,-27.0
+rpc4bc030,ratio_proportion_change4b-cms-030,_percentChange,PC-UPPCb-ME-014,,,,,,21.0,9.0
+rpc4bc014,ratio_proportion_change4b-cms-014,_percentChange,PC-UPPCb-ME-011,10,80,,,,,
+rpc4bc091,ratio_proportion_change4b-cms-091,_percentChange,PC-UPPCb-NG-7,8,-25,,,,,
+rpc4bc016,ratio_proportion_change4b-cms-016,_percentChange,PC-UPPCb-ME-016,4,-75,,,,,
+rpc4bc094,ratio_proportion_change4b-cms-094,_percentChange,PC-UPPCb-NG-11,30,80,,,,,
+rpc4bc069,ratio_proportion_change4b-cms-069,_percentChange,PC-UPPCb-NG-7,10,-60,,,,,
+rpc4bc054,ratio_proportion_change4b-cms-054,_percentChange,PC-UPPCb-ME-016,80,-70,,,,,
+rpc4bc011,ratio_proportion_change4b-cms-011,_percentChange,PC-UPPCb-NG-7,75,-12,,,,,
+rpc4bc070,ratio_proportion_change4b-cms-070,_percentChange,PC-UPPCb-ME-012,30,60,,,,,
+rpc4bc072,ratio_proportion_change4b-cms-072,_percentChange,PC-UPPCb-NG-7,56,-75,,,,,
+rpc4bc037,ratio_proportion_change4b-cms-037,_percentChange,PC-UPPCb-ME-014,,,,,,8.0,-17.0
+rpc4bc056,ratio_proportion_change4b-cms-056,_percentChange,PC-UPPCb-KE-6,,,,,,51.0,21.0
+rpc4bc013,ratio_proportion_change4b-cms-013,_percentChange,PC-UPPCb-KE-8,40,-65,,,,,
+rpc4bc052,ratio_proportion_change4b-cms-052,_percentChange,PC-UPPCb-ME-020,30,,,,,,-15.0
+rpc4bc017,ratio_proportion_change4b-cms-017,_percentChange,PC-UPPCb-ME-017,25,40,,,,,
+rpc4bc092,ratio_proportion_change4b-cms-092,_percentChange,PC-UPPCb-NG-6,50,,,,,,2.0
+rpc4bc089,ratio_proportion_change4b-cms-089,_percentChange,PC-UPPCb-ME-018,56,,,,,,42.0
+rpc4bc090,ratio_proportion_change4b-cms-090,_percentChange,PC-UPPCb-ME-011,20,-90,,,,,
+rpc4bc015,ratio_proportion_change4b-cms-015,_percentChange,PC-UPPCb-ME-012,80,-60,,,,,
